@@ -67,8 +67,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: divyang.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/divyang-kanpariya/divyang/issues)
+ 📧 &emsp; Reach me anytime: divyang2412@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/divyang-kanpariya/divyang-kanpariya/issues)
 
 </p>
 
@@ -101,11 +101,11 @@
 
 <br/>
 
-## Top Open Source -
+<!-- ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=divyang&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/divyang-kanpariya/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=divyang&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/divyang-kanpariya/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=divyang&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/divyang-kanpariya/web-projects)
-[![Divyang Readme](https://github-readme-stats.vercel.app/api/pin/?username=divyang&repo=divyang&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/divyang-kanpariya/divyang)
+[![Divyang Readme](https://github-readme-stats.vercel.app/api/pin/?username=divyang&repo=divyang&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/divyang-kanpariya/divyang) -->
 
 <p align="left">
   <a href="https://github.com/divyang-kanpariya?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -115,7 +115,7 @@
 <hr/>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/divyang-kanpariya-kanpariya">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyang&theme=radical&border=7F3FBF&background=0D1117" alt="Divyang's GitHub streak"/>
   </a>
@@ -134,4 +134,4 @@
 </a>
 
 
-![Divyang's Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyang-kanpariya&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Divyang's Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyang-kanpariya&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
