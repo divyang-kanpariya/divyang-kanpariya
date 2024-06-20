@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://divyang.com" target="blank">
+ <a href="https://divyang-kanpariya.github.io/portfolio" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="divyang" />
  </a>
  <a href="https://www.linkedin.com/in/divyang-kanpariya/" target="_blank">
