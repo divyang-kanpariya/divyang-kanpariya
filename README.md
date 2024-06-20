@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://divyang.com">Divyang</a></b>
+                <b><a target="_blank" href="https://divyang-kanpariya.github.io/portfolio">Divyang</a></b>
         </samp>
 </h3>
 
